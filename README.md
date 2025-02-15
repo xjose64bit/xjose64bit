@@ -1,16 +1,52 @@
-## Hi there 👋
+## Xjose64bit
+### Xavier Moisés Alberto José 
 
-<!--
-**xjose64bit/xjose64bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p float="center" align="center">
+
+  <a href="https://github.com/xjose64bit/42-piscine">
+    <img src="42/banners/profile/github_profile_banner_round_piscine_v1.png" width="265">
+  </a>
+  &nbsp;
+  <a href="https://github.com/xjose64bit/42-common-core">
+    <img src="42/banners/profile/creloaded2.png" width="265"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/xjose64bit/42-common-core">
+    <img src="42/banners/profile/github_profile_banner_round_common_core_v1.png" width="265"/>
+  </a>
+</p>
+
+
+<p align="center">
+    <a href='https://www.linkedin.com/in/xjose64bit' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-100000?style=flat&logo=Linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2'/></a>
+    </a>
+    <a href='https://profile.intra.42.fr/users/xjose64bit' target="_blank"><img alt='42' src='https://img.shields.io/badge/Luanda-100000?style=flat&logo=42&logoColor=white&labelColor=000000&color=000000'/></a>
+    </a>
+</p>
+
+## Sobre me
+
+- Sou `Developer` & `Designer UI`
+- Apaixonado por `Astronomínha`, `Programação` e `Jogos`.
+- Atuo como programador e desenvolvedor `freelancer`.
+- Dedicando-me a criar soluções inovadoras e funcionais.
+- Atualmente, estou aprimorando minhas habilidades como Cadete da `42 Luanda`, mergulhando em desafios e projetos que expandem meu conhecimento em programação.
+
+## Skills
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,html,css,git,github,bash,linux,vscode,figma,ps,markdown,mysql,php,nodejs,electron,react,unity,unrealengine,bootstrap,tailwind,vite,prisma,sqlite" />
+  </a>
+</p>
+
+<hr style="background: rgb(100, 100, 150, 0.4); height: 2px; border: none;">
+
+<div align="center">
+
+  | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=xjose64bit&show_icons=true&locale=en&layout=compact&theme=dracula) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xjose64bit&show_icons=true&locale=en&theme=dracula) |
+  | --- | --- |
+</div>
